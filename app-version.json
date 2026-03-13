@@ -6,5 +6,6 @@
   "android": {
     "version": "1.0.7",
     "required": true
-  }
+  },
+  "eas_update_mandatory": false
 }
