@@ -1,10 +1,10 @@
 {
   "ios": {
-    "version": "1.0.13",
+    "version": "1.0.14",
     "required": true
   },
   "android": {
-    "version": "1.0.13",
+    "version": "1.0.14",
     "required": true
   },
   "eas_update_mandatory": false
